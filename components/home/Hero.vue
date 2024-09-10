@@ -36,15 +36,13 @@ const { title, description } = useAppConfig()
           size="lg"
           type="outline"
           rel="noopener"
-          href="https://github.com/ccbikai/sink"
+          href="https://ceramoza.com/"
           title="Github"
           class="flex items-center justify-center gap-1"
           target="_blank"
         >
-          <GitHubIcon
-            class="w-5 h-5"
-          />
-          GitHub Repo
+          
+          Ceramoza
         </HomeLink>
       </div>
     </div>
